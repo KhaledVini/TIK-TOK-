@@ -226,7 +226,7 @@ class Zefoy:
             from cfonts import render
             output = render('TIKTOK',colors=['white', 'blue'], align='center')
             print(output)
-            print("~ Programmer : @D_E_M_O | Channel: @N_9_N_6 ~")
+            print("~ Programmer : @l_D9M | Channel: @W_9ssm ~")
             print("\x1b[1;33m—" * 60)
             print(f"""\x1b[38;5;117m1\x1b[38;5;231m - Followers | \x1b[1;31mComing Soon
 \x1b[38;5;117m2\x1b[38;5;231m - Hearts | \x1b[1;31mComing Soon
